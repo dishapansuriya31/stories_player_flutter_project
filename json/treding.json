@@ -1,0 +1,27 @@
+[
+  {
+    "rating": "4.5",
+    "title": "KASHI",
+    "text": "martin hyatt",
+    "img": "img/yeh_rishta_kaisa_hai.jpg",
+    "audio": "kashi.mp4a"
+
+
+  },
+  {
+    "rating": "4.6",
+    "title": "KASHI",
+    "text": "martin hyatt",
+    "img": "img/khauff.jpg",
+    "audio": "kashi2.mp4a"
+
+  },
+  {
+    "rating": "4.7",
+    "title": "KASHI",
+    "text": "martin hyatt",
+    "img": "img/viyona.jpg",
+    "audio": "kashi3.mp4a"
+
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "rating": "4.5",
+    "title": "KASHI",
+    "text": "martin hyatt",
+    "img": "img/kashi.jpg",
+    "audio": "assets/music/kashi4.mpeg"
+
+  },
+  {
+    "rating": "4.6",
+    "title": "KASHI2",
+    "text": "martin hyatt",
+    "img": "img/kashi.jpg",
+    "audio": "assets/music/kashi.m4a"
+
+  },
+  {
+    "rating": "4.7",
+    "title": "KASHI3",
+    "text": "martin hyatt",
+    "img": "img/kashi.jpg",
+    "audio": "assets/music/kashi2.m4a"
+
+  }
+]
